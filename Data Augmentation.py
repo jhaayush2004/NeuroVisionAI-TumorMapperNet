@@ -58,4 +58,7 @@ for i in range(2):
 
 # Concatenate the generators into a single generator
 train_generator = chain.from_iterable(train_generators)
+total_images = sum(generator.n for generator in train_generators)
+print("Total number of images:", total_images)
+
 
