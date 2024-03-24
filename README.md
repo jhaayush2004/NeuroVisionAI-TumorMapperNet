@@ -20,7 +20,7 @@
   </p><br>
   <p><h2 style="font-size: 36px;">Segmentation Part</h2><hr>
     <img src="https://github.com/jhaayush2004/NeuroVisionAI-TumorMapperNet/blob/main/imagesGit/sp.jpg" alt="Dataset Photo"><br>
-    This part of our Network conssists of UNET architecture build using Resblocks.This consists of encoding part and decoding part as well as skip connections which enable the network to retain and transfer low-level features from earlier layers to later layers, aiding in the reconstruction of high-resolution feature maps in the decoding block.Finally a mask is produced as output and then it is overlayed on the input MRI scan image and pixel colors of that masked region are changed.
+    This part of our Network conssists of UNET architecture build using Resblocks.This consists of encoding part and decoding part as well as skip connections which enable the network to retain and transfer low-level features from earlier layers to later layers, aiding in the reconstruction of high-resolution feature maps in the decoding block.Finally a mask is produced as output and then it is overlayed on the input MRI scan image and pixel colors of that masked region are changed.<br>
     <img src="https://github.com/jhaayush2004/NeuroVisionAI-TumorMapperNet/blob/main/imagesGit/fp.jpg" alt="Dataset Photo">
   </p><br>
    <p><h2 style="font-size: 36px;">Loss Functions</h2><hr>
