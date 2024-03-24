@@ -1,5 +1,4 @@
-brain_df_mask = brain_df[brain_df['mask'] == 1]
-brain_df_mask.shape
+
 # creating test, train and val sets
 X_train, X_val = train_test_split(brain_df_mask, test_size=0.15)
 X_test, X_val = train_test_split(X_val, test_size=0.5)
