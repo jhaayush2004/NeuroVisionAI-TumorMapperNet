@@ -58,7 +58,7 @@
   <img src="https://github.com/jhaayush2004/NeuroVisionAI-TumorMapperNet/blob/main/imagesGit/ii.png" alt="Dataset Photo">
  <hr> <br><br>
  <h2 style="font-size: 36px;">Deployment</h2><hr>
- <p>🚀 Our Model has been deployed successfully! Using Streamlit, we've created a user-friendly interface for accessing our groundbreaking MRI tumor segmentation model.  [Visit Our Model](https://testhack-qopv84ehjvpnpmzyspxgeg.streamlit.app/) and experience the power of AI in medical imaging firsthand.
+ <p>🚀 Our Model has been deployed successfully!** Using Streamlit, we've created a user-friendly interface for accessing our groundbreaking MRI tumor segmentation model. [Visit Our Model](https://testhack-qopv84ehjvpnpmzyspxgeg.streamlit.app/) and experience the power of AI in medical imaging firsthand.
 
 🎯 Achieving a remarkable 99% accuracy, precision, recall, and f1-score in our MRI tumor segmentation project marks a significant milestone. This remarkable feat underscores our commitment to excellence and the transformative potential of AI in healthcare.
 
