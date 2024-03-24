@@ -13,7 +13,7 @@
   <br>
   <h2 style="font-size: 36px;">Network Architecture</h2>
   <hr>
- <p> This Model consists of two parts,first is Classification part and seciond is Segmentation part.</p><br>
+ <p> This Model consists of two parts,first is Classification part and second is Segmentation part.</p><br>
   <p><h2 style="font-size: 36px;">Classification Part</h2><hr>
     <img src="https://github.com/jhaayush2004/NeuroVisionAI-TumorMapperNet/blob/main/imagesGit/cp.jpg" alt="Dataset Photo">
     This part comprises of the DenseNet121 architecture with freezed weights.After it, Average Pooling has been implemented followed by Flatten layer.Now ,four other neural Dense layers(256) has been added each with ReLU activation function and Dropout(0.3) between each two of them.Afterwards,"Softmax" activation has been added which gives output telling us whether provided MRI scan is tumor positive! 
